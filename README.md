@@ -10,7 +10,7 @@ EDA
 Visualization
 ## Tools used 
 Python,Pandas,NumPy,Matplotlib,Seaborn
-##Observations/ Insights
+## Observations/ Insights
 1.Living Area (GrLivArea) has strong positive correlation with SalePrice
 2.Overall Quality (OverallQual) significantly impact on house price
 3.Some features have very weak correlation with SalePrice and can be removed for better analysis.
